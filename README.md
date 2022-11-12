@@ -1,6 +1,6 @@
 # linkedinjobs
 
-The main purpose of this project is to help me find data science related jobs which had less competition. But, before tackling on the main goal, I completed some initial goal, which is to visualize the location of data science jobs.<br>
+The main purpose of this project is to help me find data science related jobs which had less competition. But, before tackling on the main goal, I tried to be familiar with the process. As such, I determined to visualize the location of data science jobs.<br>
 
 Scraping pipeline: Here, I used Selenium to scrape data. In order to make the program continue to scrape even when certain HTML tags were missing, exception handling was implemented.<br>
 
